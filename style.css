@@ -1,0 +1,24 @@
+.cabecalho{display: flex; justify-content: space-between;
+align-items: center;padding: 10px;background-color: rgb(231, 91, 91); color: white;}
+
+body{background-color: rgb(154, 146, 146);}
+h2{text-align: center;}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+  width: 70%;}
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;}
+ol{border: 2px solid;}
+.lista{ list-style-position: inside;
+text-align: left;padding-left: 0; max-width: 400px; font-size: larger; line-height: 1.6; background-color:rgb(231, 91, 91); color: white; }
+ .pontos{width: 300px;}
+ .titulolista{text-align: center;}
+ th{background-color: rgba(13, 13, 76, 0.844); color: white;}
+.pontos{background-color:rgba(13, 13, 76, 0.844); color: white;}
+.pilotoequipe{border: 2px solid white;width: fit-content;background-color: rgb(231, 91, 91); color: white;}
+  .cor{color: white; text-align: center;}
